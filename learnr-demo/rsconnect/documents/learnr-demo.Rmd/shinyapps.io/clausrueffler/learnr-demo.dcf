@@ -1,0 +1,13 @@
+name: learnr-demo
+title: learnr-demo
+username:
+account: clausrueffler
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6853844
+bundleId: 6240017
+url: https://clausrueffler.shinyapps.io/learnr-demo/
+when: 1661504867.03224
+lastSyncTime: 1661504867.03225
+asMultiple: FALSE
+asStatic: FALSE
